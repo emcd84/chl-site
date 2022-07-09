@@ -1,0 +1,21 @@
+.TopMenu {
+    background-color: whitesmoke;
+}
+
+.menuContent {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    margin: 0% 3%;
+}
+
+.header {
+    color: black;
+    font-size: 24px;
+}
+
+.link {
+    color: darkslategrey;
+    font-size: 20px;
+}
